@@ -5,3 +5,5 @@ numpy==2.3.1
 pymongo==4.13.2
 scikit-learn==1.7.0
 pyaml==25.7.0
+dagshub==0.5.10
+mlflow==3.1.1
